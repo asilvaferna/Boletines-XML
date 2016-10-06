@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Ejercicio 2-->
+<deportistas>
+  <deportista>
+    <deporte atletismo = "D1" >
+      <nombre>Jesse Owens</nombre>
+    </deporte>
+    <deportista>
+      <deporte Natación = "D2" >
+        <nombre>Mark Spitz</nombre>
+      </deporte>
+    </deportista>
+  </deportistas>

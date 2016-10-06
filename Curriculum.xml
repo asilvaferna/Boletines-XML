@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="cv.css"?>
+<curriculum>
+  <name>
+    <nombre>Adrián</nombre>
+    <apellidos>Silva Fernández</apellidos>
+  </name>
+  <direccion>
+      <calle>Calle Real</calle>
+      <numero>32</numero>
+      <cp>36203</cp>
+  </direccion>
+  <movil>123456789</movil>
+  </curriculum>

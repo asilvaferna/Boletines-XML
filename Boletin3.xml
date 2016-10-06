@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<boletin3>
+    <!--Ejercicio 1-->
+    <breakfast_menu titulo="menú">
+        <food>
+            <name>Belgian Waffles</name>
+            <price>$5.95</price>
+            <description>Una descripción en griego:Ω omega</description>
+            <calories>650</calories>
+        </food>
+        <food>
+            <name>Strawberry Belgian Waffles</name>
+            <price>$7.95</price>
+            <description>Otra descripción</description>
+            <calories>900</calories>
+        </food>
+    </breakfast_menu>
+    <!--Ejercicio 2-->
+    <musica>
+        <cd>
+            <titulo>Circles</titulo>
+            <artista>Monsters</artista>
+            <precio>10</precio>
+        </cd>
+        <cd>
+            <titulo>Circles</titulo>
+            <artista>Redemption</artista>
+            <precio>13</precio>
+        </cd>
+    </musica>
+    <!--Ejercicio 3-->
+    <hoteles>
+        <nombre>El pinar</nombre>
+        <telefono>123456789</telefono>
+        <direccion>
+            <calle>Calle del pinar</calle>
+            <numero>7</numero>
+        </direccion>
+        <ciudad>Alicante</ciudad>
+        <pais>España</pais>
+        <estrellas>4*</estrellas>
+        <descripcion>Hotel con maravillosas vistas</descripcion>
+        <habitaciones>
+            <individuales>10</individuales>
+            <dobles>15</dobles>
+            <triples>5</triples>
+            <suites>3</suites>
+        </habitaciones>
+        <nombre>Maravilla</nombre>
+        <telefono>123456789</telefono>
+        <direccion>
+            <calle>Calle real</calle>
+            <numero>32</numero>
+        </direccion>
+        <ciudad>A Coruña</ciudad>
+        <pais>España</pais>
+        <estrellas>3*</estrellas>
+        <descripcion>Hotel urbano</descripcion>
+        <habitaciones>
+            <individuales>15</individuales>
+            <dobles>20</dobles>
+            <triples>5</triples>
+            <suites>2</suites>
+        </habitaciones>
+    </hoteles>
+</boletin3>

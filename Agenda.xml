@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet href="libro.css" type= "text/css"?>
+<!DOCTYPE agendas [
+    <!ELEMENT agendas (nombre, dirección, teléfono, codigo_p)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT direccion (#PCDATA)>
+    <!ELEMENT telefono (#PCDATA)>
+]>
+<agendas>
+    <nombre>paco</nombre>
+    <direccion>calle 1</direccion>
+    <telefono>666666666</telefono>
+    <codigo_p>36666</codigo_p>
+</agendas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE peliculas [
+  <!ELEMENT agendas (titulo, director, año)>
+  <!ELEMENT titulo (#PCDATA)>
+  <!ELEMENT director (nombre, apellido)>
+  <!ELEMENT año (#PCDATA)>
+  <!ELEMENT nombre (#PCDATA)>
+  <!ELEMENT apellido (#PCDATA)>
+]>
+<peliculas>
+    <titulo>Shutter Island</titulo>
+    <director>
+      <nombre>Martin</nombre>
+      <apellido>Scorsese</apellido>
+    </director>
+    <año>2010</año>
+</peliculas>

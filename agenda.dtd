@@ -1,0 +1,5 @@
+<!ELEMENT agendas (nombre,dirección,teléfono,codigo_p)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT telefono (#PCDATA)>
+<!ELEMENT codigo_p (#PCDATA)>

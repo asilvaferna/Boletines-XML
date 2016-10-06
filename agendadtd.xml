@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet href="libro.css" type= "text/css"?>
+<!DOCTYPE agendas SYSTEM "agenda.dtd">
+<agendas>
+    <nombre>paco</nombre>
+    <direccion>calle 1</direccion>
+    <telefono>666666666</telefono>
+    <codigo_p>36666</codigo_p>
+</agendas>

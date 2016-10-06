@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Ejercicio 3-->
+<texto>
+  <Titulo>XML explicado a los niños</titulo>
+  <párrafo>El</párrafo>
+  <abreviatura>XML</abreviatura>
+  <párrafo>define cómo crear lenguajes de marcas.</párrafo>
+  <párrafo>Las marcas se añaden a un documento de texto para añadir información.</párrafo>
+  <pagina>www.example.org</pagina>
+</texto>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE peliculas SYSTEM "peliculas.dtd">
+<peliculas>
+    <titulo>Shutter Island</titulo>
+    <director>
+        El autentico:
+        <nombre>Martin</nombre>
+        <apellido>Scorsese</apellido>
+    </director>
+    <año>2010</año>
+</peliculas>
